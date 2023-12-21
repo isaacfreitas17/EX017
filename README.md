@@ -1,5 +1,5 @@
 # EX017
-# tipografia
+# tipografia 
 # Anatomia dos tipos   
 # asdasda    
 # commit        
